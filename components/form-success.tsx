@@ -1,4 +1,3 @@
-import { BsExclamationTriangle } from "react-icons/bs";
 import { CheckCircledIcon } from "@radix-ui/react-icons";
 
 interface FormSuccessProps {
